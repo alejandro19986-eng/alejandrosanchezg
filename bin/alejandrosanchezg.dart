@@ -1,1 +1,2 @@
 //primer comentario
+//sincroniza
